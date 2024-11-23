@@ -22,14 +22,14 @@ Here you can verify all of the programming languages & tools used to develop *AC
 + React
 + HTML5
 + CSS
-+ Typescript
++ Javascript
 + Node.JS
 + Inkscape
 + Gimp
 
 ## Prototype
 
-**( Coming Soon )**
+**Figma:** https://www.figma.com/design/mmnFx3vHHARerO3XjIOBOE/Acio?node-id=0-1&m=dev&t=nptoLAyw2nYwxssJ-1
 
 ## Credits
 
