@@ -3,27 +3,25 @@
 
 ## About ACIO
 
-Acio is a simple app utility that it`s main objective is to provide some useful math tools in a clear, fast and compact app experience,.
+Acio is a simple app utility that it`s main objective is to provide some useful math tools in a clear, fast and compact app experience. This is not your simple calculator to show my skills, but i developed to provide a diar use for myself.
 
 ## Content
 
 Here you can verify all of the utilities planned for ACIO.
 
-+ Basic Calculator
-+ Percent Calculator
-+ BMI Calculator
-+ Measure Converter
-+ And more...
++ Basic Calculator (Working)
++ Percent Calculator (Planned)
++ BMI Calculator (Planned)
++ Measure Converter (Planned)
++ And more... (Planned)
 
 ## Technologies
 
 Here you can verify all of the programming languages & tools used to develop *ACIO*. a potential mobile version is being considered to use React Native.
 
-+ React
 + HTML5
 + CSS
 + Javascript
-+ Node.JS
 + Inkscape
 + Gimp
 
