@@ -3,17 +3,31 @@
 
 ## About ACIO
 
-Acio is a simple app utility that it`s main objective is to provide some useful math tools in a clear, fast and compact app experience. This is not your simple calculator to show my skills, but i developed to provide a diar use for myself.
+Acio is a simple productivity tool that provides **Accurate Calculation**, **Interactive** Memory tools and **Organize** tools.
 
 ## Content
 
 Here you can verify all of the utilities planned for ACIO.
 
+**Accurate CalculatIion Tools**
+
 + Basic Calculator (Working)
++ Scientific Calculator (Working)
 + Percent Calculator (Planned)
 + BMI Calculator (Planned)
 + Measure Converter (Planned)
-+ And more... (Planned)
+
+
+**Interactivity Tools**
+
++ Memory Book
++ Memory Cards
++ Memory Puzzle
+
+**Organizing Tools**
+
++ To be detailed...
+
 
 ## Technologies
 
@@ -25,10 +39,10 @@ Here you can verify all of the programming languages & tools used to develop *AC
 + Inkscape
 + Gimp
 
-## Prototype
+## License 📕:
 
-**Figma:** https://www.figma.com/design/mmnFx3vHHARerO3XjIOBOE/Acio?node-id=0-1&m=dev&t=nptoLAyw2nYwxssJ-1
+Coming Soon...
 
-## Credits
+## Credits 👨‍💻:
 
-*Made by phc-s*
++ Pedro Henrique Costa Silva (https://github.com/phc-s)
