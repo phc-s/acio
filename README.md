@@ -1,22 +1,22 @@
 >[!NOTE]
 >This app is currently Work in Progress.
 
-## About ACIO
+## About Acio 🧮
 
-Acio is a simple productivity tool that provides **Accurate Calculation**, **Interactive** Memory tools and **Organize** tools. everything in a simple, direct application through web. nothing more complex itself.
+Acio (stylized "ACIO") is a simple, clean productivity tool that provides **Accurate Calculation**, **Interactive** Memory tools and **Organize** tools, everything in a direct application through web. Nothing hard to understand. Opt between 8 helpful sections for your convenience. Access everywhere, anytime, Acio is ready to assist.
 
-## Content
+## How to use Acio?
 
-ACIO will offer 3 different solutions that will range of mathematics, memorization and flow management tools.  
+Coming soon...
+
+## App Content ✉️
 
 **Accurate CalculatIion Tools**
 
-+ Basic Calculator (Working)
-+ Scientific Calculator (Working)
-+ Percent Calculator (Planned)
-+ BMI Calculator (Planned)
-+ Measure Converter (Planned)
-
++ Basic Calculator
++ Scientific Calculator 
++ Percent Calculator 
++ Measure Converter
 
 **Interactivity Tools**
 
@@ -25,24 +25,38 @@ ACIO will offer 3 different solutions that will range of mathematics, memorizati
 
 **Organizing Tools**
 
-+ Double Diamond
 + Kanban
 + AcioPad
 
-## Technologies
+## Technologies ⚙️
 
-Here you can verify all of the programming languages & tools used to develop *ACIO*. a potential mobile version is being considered to use React Native.
+Here you can verify all of the skills used to develop *ACIO*. Listed below, Programming languages and frameworks, Design and Tools / Environments. This section can be reviewed and is subject to changes.
+
+#### Programming
 
 + HTML5
 + CSS
 + Javascript
 + Typescript
++ JSON
 + React
-+ Node.JS
+
+#### Design
+  
 + Inkscape
 + Gimp
++ Figma
+
+#### Tools
+
++ Visual Studio Code
++ Node.JS
++ NPM
++ Git
 
 ## Prototype 🖱️:
+
+Following here, you can check Acio prototype through Figma, available only in en-US for now.
 
 + https://www.figma.com/design/mmnFx3vHHARerO3XjIOBOE/Acio
 
