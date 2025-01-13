@@ -3,30 +3,37 @@
 
 ## About Acio 🧮
 
-Acio (stylized "ACIO") is a simple, clean productivity tool that provides **Accurate Calculation**, **Interactive** Memory tools and **Organize** tools, everything in a direct application through web. Nothing hard to understand. Opt between 8 helpful sections for your convenience. Access everywhere, anytime, Acio is ready to assist.
+Acio (stylized "ACIO") is a simple, clean productivity tool that provides **Accurate Calculation**, **Interactive** Memory tools and **Organize** tools, everything in a direct application through web. Nothing hard to understand. Opt between 8 helpful sections for your convenience. Access everywhere, anytime, Acio is ready to assist. 
 
 ## How to use Acio?
 
-Coming soon...
+With Acio accessed through your browser, you can choose between 3 general options, which are specified in the **App Content** section. Once chosen, you will be taken to a work area where you can choose between 2 or 4 options depending on how you want it. There will be specific instruction to each content below.
+
+The interactivity and Organization tools have exclusive system for saving your progress regarding data & changes, which I will specify further instructions in the future.
 
 ## App Content ✉️
 
-**Accurate CalculatIion Tools**
+### **Accurate Calculation Tools**
 
 + Basic Calculator
 + Scientific Calculator 
 + Percent Calculator 
 + Measure Converter
 
-**Interactivity Tools**
+### **Interactivity Tools**
 
 + Memory Book
 + Memory Cards
 
-**Organizing Tools**
+### **Organizing Tools**
 
-+ Kanban
-+ AcioPad
++ **Kanban**
+
+This one will kinda be based in Trello, a really minimalist and simple version for everyone who wants a simple task management tool.
+
++ **AcioPad**
+
+AcioPad will be influenced by Quire, being more elaborated than the Kanban one. will have more advanced management tools, yet a bit simplier than quire itself
 
 ## Technologies ⚙️
 
@@ -67,5 +74,7 @@ Acio is licensed under GNU General Public License v3.0+
 + https://github.com/phc-s/acio/blob/main/LICENSE
 
 ## Credits 👨‍💻:
+
+Entirely and independently developed by:
 
 + **Pedro Henrique Costa Silva** - (https://github.com/phc-s)
