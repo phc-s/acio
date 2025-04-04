@@ -1,9 +1,11 @@
+![Group 2](https://github.com/user-attachments/assets/45c352d3-a689-4708-9343-338913c6e08f)
+
 >[!NOTE]
 >This app is currently Work in Progress.
 
 ## About Acio 🧮
 
-Acio (stylized "ACIO") is a simple, clean productivity tool that provides **Accurate Calculation**, **Interactive** Memory tools and **Organize** tools, everything in a direct application through web. Nothing hard to understand. Opt between 8 helpful sections for your convenience. Access everywhere, anytime, Acio is ready to assist. 
+Acio (stylized "ACIO") is a simple, clean productivity tool that provides **Accurate Calculation**, **Interactive** Memory tools and **Organize** tools, everything in a direct application through web. Nothing hard to understand. Opt between 8 helpful sections for your convenience. Access everywhere, anytime, Acio is ready to assist. This app will only run in desktop environments since its experience wasn`t designed for mobile devices.
 
 ## How to use Acio?
 
@@ -33,7 +35,7 @@ This one will kinda be based in Trello, a really minimalist and simple version f
 
 + **AcioPad**
 
-AcioPad will be influenced by Quire, being more elaborated than the Kanban one. will have more advanced management tools, yet a bit simplier than quire itself
+AcioPad will be influenced by Quire, being more elaborated than the Kanban one. Will have the most advanced management tools, yet a bit simpler than quire itself.
 
 ## Technologies ⚙️
 
@@ -63,7 +65,7 @@ Here you can verify all of the skills used to develop *ACIO*. Listed below, Prog
 
 ## Prototype 🖱️:
 
-Following here, you can check Acio prototype through Figma, available only in en-US for now.
+Following here, you can check Acio prototype through Figma, available only in en-US.
 
 + https://www.figma.com/design/mmnFx3vHHARerO3XjIOBOE/Acio
 
