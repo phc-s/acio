@@ -5,7 +5,7 @@
 
 ## About Acio 🧮
 
-Acio (stylized "ACIO") is a simple, clean productivity tool that provides **Accurate Calculation**, **Interactive** Memory tools and **Organize** tools, everything in a direct application through web. Nothing hard to understand. Opt between 8 helpful sections for your convenience. Access everywhere, anytime, Acio is ready to assist. This app will only run in desktop environments since its experience wasn`t designed for mobile devices.
+Acio (stylized "ACIO") is a simple, clean productivity tool that provides **Accurate Calculation** tools, everything in a direct application through web. Nothing hard to understand. Opt between 4 simple helpful sections for your convenience. Access everywhere, anytime, Acio is ready to assist. This app will only run in desktop environments since its experience wasn`t designed for mobile devices.
 
 ## How to use Acio?
 
@@ -21,21 +21,6 @@ The interactivity and Organization tools have exclusive system for saving your p
 + Scientific Calculator 
 + Percent Calculator 
 + Measure Converter
-
-### **Interactivity Tools**
-
-+ Memory Book
-+ Memory Cards
-
-### **Organizing Tools**
-
-+ **Kanban**
-
-This one will kinda be based in Trello, a really minimalist and simple version for everyone who wants a simple task management tool.
-
-+ **AcioPad**
-
-AcioPad will be influenced by Quire, being more elaborated than the Kanban one. Will have the most advanced management tools, yet a bit simpler than quire itself.
 
 ## Technologies ⚙️
 
